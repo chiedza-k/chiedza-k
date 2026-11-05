@@ -1,6 +1,6 @@
 # Hi, I'm Chiedza 👋
 
-Junior full-stack developer completing my BCom in Business Informatics. I tutor Python, where I turn complex concepts into clear, practical lessons, and I'm open to remote and corporate roles where I can grow and contribute from day one.
+Junior software developer completing my BCom in Business Informatics. I tutor Python, where I turn complex concepts into clear, practical lessons, and I'm open to remote and corporate roles where I can grow and contribute from day one.
 
 - 🔭 I'm currently working on: a portfolio project
 - 🌱 I'm currently learning: full-stack frameworks
